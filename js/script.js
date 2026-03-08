@@ -96,4 +96,9 @@ function renderTree() {
     if (tree) tree.appendChild(createCoupleCard(familyData));
 }
 
+
+
+
+
+
 document.addEventListener("DOMContentLoaded", renderTree);
